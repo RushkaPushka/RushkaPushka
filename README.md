@@ -1,6 +1,6 @@
 - Hey! I’m @RushkaPushka
 - 👀 I’m interested in projects for beginners in data science
-- I’m currently learning math statistics and python and I'm going to dive into ML
+- I'm good at ML basics and a little bit into NNs. The next aim is to boost my NL skills
 - 📫 How to reach me: aknashurr@gmail.com
 
 <!---
